@@ -2,7 +2,7 @@
 
 //configs
 var framerate = 5; //frames per second
-var videopath = 'C:/Users/bobma/Desktop/videothing/endofworld.mp4'; //complete file path of the video
+var videopath = 'C:/complete/file/path/here'; //complete file path of the video
 var isColored = true; //is the final text colored? (true/false)
 var renderSpeed = 1500; //time, in ms, allotted to rendering each frame
 
